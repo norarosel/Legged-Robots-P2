@@ -1,3 +1,4 @@
+# This repository is used for the class Legged Robots at EPFL in the year 2023.
 # Quadruped-Sim
 This repository contains an environment for simulating a quadruped robot.
 
